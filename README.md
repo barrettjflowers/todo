@@ -1,6 +1,6 @@
 ## Rust Todo CLI tool
 
-A personal project to start learning rusts syntax and structure. \
+A personal project to start learning rusts syntax and structure.
 
 Uses clap for cli.
 Creates todo_list.txt in binary directory.
